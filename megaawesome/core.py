@@ -1,4 +1,5 @@
 
+
 class MegaAwesome(object):
 
     def time_travel(self):
