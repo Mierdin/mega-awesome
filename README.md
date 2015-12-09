@@ -7,3 +7,5 @@ This is a fake project aimed at illustrating the benefits of a dedicated and aut
 # Resources
 
 For more info, see [my blog post on this topic](http://keepingitclassless.net/2015/10/benefits-development-environment/).
+
+<!-- This is a very important line. -->
